@@ -66,8 +66,8 @@ This describes the columns found in the `insurance_data.csv` dataset.
 | `past_consultations` | float | Number of past medical consultations. |
 | `num_of_steps` | float | Average number of steps taken per day. |
 | `Hospital_expenditure` | float | Past expenditure on hospital visits. |
-| `NUmber_of_past_hospitalizations`| float | Number of times hospitalized in the past. *(Note: Typo in original column name)* |
-| `Anual_Salary` | float | Annual income of the beneficiary. *(Note: Typo in original column name)* |
+| `Number_of_past_hospitalizations`| float | Number of times hospitalized in the past. |
+| `Annual_Salary` | float | Annual income of the beneficiary. |
 | `region` | object | Beneficiary's residential area in the US (e.g., southeast). |
 | **`charges`** | **float** | **(Target Variable)** Individual medical costs billed by health insurance. |
 
